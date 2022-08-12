@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405__340.jpg);
+    background-size: cover;
+    background-color: grey;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Pacifico', cursive;
+}
+
+.aa {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hd {
+    color: rgb(40, 4, 68);
+    text-align: center;
+    color: azure;
+}
+
+.but {
+    width: 150px;
+    height: 40px;
+    background-color: indigo;
+    color: white;
+    cursor: pointer;
+}
